@@ -1,2 +1,2 @@
 # icpp-rebuttal
-![contents](https://github.com/iwannalalala/icpp-rebuttal/blob/main/tc_stencil.pdf)
+see tc_stencil.pdf for detail roofline analysis.
